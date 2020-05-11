@@ -2,7 +2,7 @@
 Lexical Analyzer Assignment for COMP-3050 (Programming Languages)
 
 
-### Instructions:
+### Assignment Instructions:
 1. The lexical analyzer should identify...
    - alphanumeric lexemes as IDENT token
    - numeric token as INT_LIT token
