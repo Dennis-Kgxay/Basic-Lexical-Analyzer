@@ -1,7 +1,9 @@
 # Basic-Lexical-Analyzer
 Lexical Analyzer Assignment for COMP-3050 (Programming Languages)
 
-1. The lexical analyzer should identify:
+
+### Instructions:
+1. The lexical analyzer should identify...
    - alphanumeric lexemes as IDENT token
    - numeric token as INT_LIT token
    - all others (‘+’, ‘-‘, ‘*’, ‘\’, ‘)’, ‘(‘) as separate tokens.
